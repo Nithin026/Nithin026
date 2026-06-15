@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Nithin 👋
 
-<!--
-**Nithin026/Nithin026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year B.Tech Student
 
-Here are some ideas to get you started:
+💻 Aspiring Software Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning:
+- Python
+- Data Structures & Algorithms
+- Web Development
+- Machine Learning
+
+🚀 Projects:
+- Diabetes Risk Prediction using Machine Learning
+- AI Resume Analyzer
+- Solar Agriculture Reboot (IoT Project)
+
+🛠️ Skills:
+- Python
+- HTML
+- CSS
+- React
+- Django
+- Git & GitHub
+- MySQL
+
+📫 Connect With Me:
+- LinkedIn: https://www.linkedin.com/in/9030nithin/
+
+⚡ Fun Fact:
+I enjoy building real-world projects and continuously learning new technologies.
