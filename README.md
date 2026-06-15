@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nithin Kumar</h1>
-<h3 align="center">Full-Stack Developer | AI-Powered Web Apps | Python & React.js</h3>
+<h3 align="center">Full-Stack Developer | AI-Powered Web Apps | Python </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Nithin026&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
