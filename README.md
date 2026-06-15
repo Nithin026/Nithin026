@@ -1,77 +1,67 @@
-# Hi, I'm Nithin Kumar 👋
+<h1 align="center">Hi 👋, I'm Nithin Kumar</h1>
 
-🎓 Final-Year B.Tech Computer Science Student
+<h3 align="center">Full-Stack Developer | AI & Machine Learning Enthusiast</h3>
 
-💻 Full-Stack Developer | AI & Machine Learning Enthusiast
-
-🚀 Passionate about building scalable web applications, AI-powered solutions, and solving real-world problems through technology.
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-- Python
-- JavaScript
-- SQL
-- HTML5
-- CSS3
-
-### Frontend
-- React.js
-- Vite
-- Responsive UI Design
-
-### Backend
-- FastAPI
-- Node.js
-- Express.js
-- REST APIs
-
-### Databases
-- MongoDB
-- MongoDB Atlas
-- MySQL
-
-### AI & Machine Learning
-- Scikit-learn
-- Streamlit
-- Google Gemini AI
-- Data Analysis
-
-### Tools & Platforms
-- Git
-- GitHub
-- Postman
-- VS Code
-- Vercel
-- Render
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nithin026&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 ---
 
-## 🚀 Featured Projects
+# 🛠️ Software Development Tools
+
+- **Languages:** Python, JavaScript, SQL
+- **Frontend:** React.js, HTML, CSS
+- **Backend:** FastAPI, Node.js, Express.js
+- **Databases:** MongoDB, MongoDB Atlas, MySQL
+- **AI & Machine Learning:** Scikit-learn, Streamlit, Gemini AI
+- **Developer Tools:** Git, GitHub, Postman, VS Code
+- **Cloud & Deployment:** Vercel, Render
+- **Concepts:** REST APIs, JWT Authentication, Data Structures & Algorithms
+
+---
+
+# 📌 Featured Projects
 
 ### 🤖 AI Resume Analyzer & Interview Preparation System
 - ATS score calculation and resume optimization
-- Keyword gap analysis and improvement suggestions
+- Keyword gap analysis and resume improvement suggestions
 - AI-generated technical and HR interview questions
-- Built with React, FastAPI, MongoDB Atlas, and Gemini AI
+- Built using React.js, FastAPI, MongoDB Atlas, and Gemini AI
 
 ### 🍔 Food Delivery Web Application
-- Full-stack food ordering platform
-- JWT authentication and Stripe payments
-- MERN stack architecture
-- Responsive user experience
+- Full-stack food ordering platform with JWT authentication
+- Secure Stripe payment integration
+- MERN stack architecture with responsive UI
+- RESTful APIs for food, user, cart, and order management
 
 ### 🩺 Diabetes Risk Prediction System
-- Machine learning-based healthcare prediction system
-- Built using Python, Scikit-learn, and Streamlit
-- Achieved 95.96% model accuracy
-- Real-time risk assessment dashboard
+- Machine Learning-based healthcare prediction system
+- Trained and evaluated multiple ML models
+- Achieved **95.96% accuracy** using Random Forest with SMOTE
+- Deployed using Streamlit for real-time risk assessment
 
 ---
 
-## 🌱 Currently Learning
+# 🎯 Highlights
+
+- 🚀 Built and deployed 3 end-to-end software projects
+- 🤖 Integrated Generative AI into real-world applications
+- ☁️ Experience deploying applications on Vercel, Render, and Streamlit Cloud
+- 📚 Continuously learning Data Structures & Algorithms, System Design, and AI Technologies
+- 💡 Passionate about building practical solutions to real-world problems
+
+---
+
+# 📜 Certifications
+
+- Python Programming — Udemy
+- Microsoft Excel — Simplilearn
+- Prompt Engineering for Generative AI — Simplilearn
+
+---
+
+# 🌱 Currently Learning
 
 - Advanced Data Structures & Algorithms
 - System Design Fundamentals
@@ -80,23 +70,12 @@
 
 ---
 
-## 📈 GitHub Goals
+# 📫 Connect With Me
 
-- Build impactful real-world projects
-- Contribute to open-source projects
-- Strengthen problem-solving skills
-- Explore modern AI technologies
-
----
-
-## 📫 Connect With Me
-
-💼 LinkedIn: https://www.linkedin.com/in/9030nithin/
-
-🐙 GitHub: https://github.com/Nithin026
-
-📧 Email: knithinkumar73@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/9030nithin
+- 🐙 GitHub: https://github.com/Nithin026
+- 📧 Email: knithinkumar73@gmail.com
 
 ---
 
-⭐ Always open to learning, collaboration, and exciting development opportunities.
+⭐ Open to Software Developer, Full-Stack Developer, and Python Developer opportunities.
